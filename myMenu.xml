@@ -1,0 +1,27 @@
+<menu>
+    <food>
+        <name>hamberger</name>
+        <price>220BTH</price>
+        <calories>500</calories>
+    </food>
+    <food>
+        <name>Burito</name>
+        <price>160BTH</price>
+        <calories>450</calories>
+    </food>
+    <food>
+        <name>Sanwich</name>
+        <price>120BTH</price>
+        <calories>270</calories>
+    </food>
+    <food>
+        <name>Sushi</name>
+        <price>150BTH</price>
+        <calories>350</calories>
+    </food>
+    <food>
+        <name>Dumpling</name>
+        <price>100BTH</price>
+        <calories>450</calories>
+    </food>
+</menu>
